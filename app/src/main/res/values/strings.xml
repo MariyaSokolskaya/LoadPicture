@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadPicture</string>
+    <string name="text_button">Загрузить</string>
+</resources>
